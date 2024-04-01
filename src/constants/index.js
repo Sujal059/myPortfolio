@@ -15,6 +15,7 @@ import {
   weather,
   todoList,
   incmExpnsTrck,
+  Blog
 } from "../assets";
 
 export const navLinks = [
@@ -136,7 +137,7 @@ const projects = [
       "Web application that enables users to post and view everyone's thoughts about a topic as a blog.",
     tags: [
       {
-        name: "react",
+        name: "ejs",
         color: "blue-text-gradient",
       },
       {
@@ -148,7 +149,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: incmExpnsTrck,
+    image: Blog,
     source_code_link: "https://github.com/Sujal059/Blog-Fullstack",
   },
   {

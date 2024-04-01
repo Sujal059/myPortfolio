@@ -19,6 +19,7 @@ import tailwind from "./tech/tailwind.png";
 import weather from "./weather.png";
 import incmExpnsTrck from "./incmExpnsTrck.png";
 import todoList from "./todoList.png";
+import Blog from "./Blog.png";
 
 export {
   logo,
@@ -41,4 +42,5 @@ export {
   weather,
   incmExpnsTrck,
   todoList,
+  Blog
 };
