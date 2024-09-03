@@ -7,7 +7,7 @@ import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 import quizApp from "./quizApp.png";
-import genNextAI from "./genNextAI.png";
+import genTextAI from "./genTextAI.png";
 import css from "./tech/css.png";
 import git from "./tech/git.png";
 import html from "./tech/html.png";
