@@ -29,7 +29,7 @@ export {
   mobile,
   web,
   quizApp,
-  genNextAI,
+  genTextAI,
   github,
   menu,
   close,
