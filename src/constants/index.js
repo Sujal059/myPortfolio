@@ -15,6 +15,8 @@ import {
   weather,
   todoList,
   incmExpnsTrck,
+  quizApp,
+  genTextAI,
   Blog
 } from "../assets";
 
@@ -110,6 +112,44 @@ const technologies = [
 // ];
 
 const projects = [
+  {
+    name: "GenText AI Content Generator",
+    description:
+      "A openai api powerd website to generate content on any topic using AI.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "mongodb",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: genTextAI,
+    source_code_link: "https://github.com/Sujal059/Income-Expenses-Tracker",
+  },
+  {
+    name: "Simple Quiz App",
+    description:
+      "A quiz website build entirely using ChatGPT and React.js, showcasing the ability to leverage AI tools for web development.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "ChatGPT",
+        color: "green-text-gradient",
+      },
+    ],
+    image: quizApp,
+    source_code_link: "https://github.com/Sujal059/QuizApp",
+  },
   {
     name: "Income Expenses Tracker",
     description:
